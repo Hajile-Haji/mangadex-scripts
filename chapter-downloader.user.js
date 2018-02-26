@@ -4,8 +4,8 @@
 // @description  A userscript to add download-buttons to mangadex
 // @author       Hajile-Haji/Icelord/Eva
 // @homepage     https://github.com/Hajile-Haji/mangadex-scripts
-// @updateURL    https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/manga-chapter-downloader.user.js
-// @downloadURL  https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/manga-chapter-downloader.user.js
+// @updateURL    https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/chapter-downloader.user.js
+// @downloadURL  https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/chapter-downloader.user.js
 // @match        https://mangadex.com/manga/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js
