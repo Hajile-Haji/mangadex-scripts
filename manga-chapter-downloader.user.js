@@ -165,7 +165,9 @@
 			mangaTitle = d.querySelector('.panel-title').innerText.trim(),
 			language = languages[chapData.parentNode.nextElementSibling.firstElementChild.title]
 
-		if (language !== 'eng') {
+		if (language === 'eng') {
+			language = ''
+		} else {
 			language = ` [${language}]`
 		}
 
