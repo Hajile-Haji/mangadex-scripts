@@ -2,7 +2,7 @@
 
 Some scripts I've made to help MangaDex Users.
 
-## Navbar Reader Enhancments <small>Something</small>
+## Navbar Reader Enhancments
 This script makes the navbar sit statically at the top of the page. It also scrolls to the top of the page image in between chapters.
 
 <a href="https://github.com/Hajile-Haji/mangadex-scripts/raw/master/navbar-reader-enhancements.user.js" target="_blank">Install via userscript Manager</a>
