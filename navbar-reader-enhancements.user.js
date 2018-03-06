@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Mangadex Static Navbar & Reader Scrolling Between Chapters
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.1.0
 // @description  Makes the nav-bar static instead of fixed. Fixes the scroll to top function so it scrolls to the top of the manga page when going between pages and (unique to this script) chapters.
 // @author       Hajile-Haji
-// @match        https://mangadex.com/chapter/*
+// @match        https://mangadex.org/chapter/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
@@ -28,7 +28,7 @@
 		d.body.style.paddingTop = 0;
 		topNav.classList.add('navbar-static-top');
 		topNav.classList.remove('navbar-fixed-top');
-        currentPage.style.paddingTop = '20px';
+        currentPage.style.paddingTop = '5px';
         currentPage.previousElementSibling.style.marginBottom = null;
 	};
 
