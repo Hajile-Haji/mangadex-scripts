@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mangadex Static Navbar & Reader Scrolling Between Chapters
+// @name         Mangadex Reader Enhancments
 // @namespace    http://tampermonkey.net/
 // @version      1.1.0
 // @description  Makes the nav-bar static instead of fixed. Fixes the scroll to top function so it scrolls to the top of the manga page when going between pages and (unique to this script) chapters.
