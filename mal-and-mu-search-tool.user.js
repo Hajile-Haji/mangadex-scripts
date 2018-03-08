@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MangaDex MAL & MU Search Tool
-// @version      1.0.2
+// @version      1.0.3
 // @author       Hajile-Haji
 // @homepage     https://github.com/Hajile-Haji/mangadex-scripts
 // @updateURL    https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/mal-and-mu-search-tool.user.js
