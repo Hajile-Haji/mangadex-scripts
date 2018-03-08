@@ -4,7 +4,7 @@
 // @homepage     https://github.com/Hajile-Haji/mangadex-scripts
 // @updateURL    https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/mal-and-mu-search-tool.user.js
 // @downloadURL  https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/mal-and-mu-search-tool.user.js
-// @match        https://mangadex.com/manga/*
+// @match        https://mangadex.org/manga/*
 // @grant        none
 // ==/UserScript==
 
