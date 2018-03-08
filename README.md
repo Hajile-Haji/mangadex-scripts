@@ -21,3 +21,9 @@ This script adds follow buttons for each series on the search page. This was bui
 This script adds download buttons to each series on the series page.  Based on [Icelord's](https://github.com/xicelord/mangadex-scripts) and [Eva's](https://github.com/ewasion) download script.
 
 <a href="https://github.com/Hajile-Haji/mangadex-scripts/raw/master/chapter-downloader.user.js" target="_blank">Install via userscript Manager</a>
+
+## MAL and MU Search Tools
+
+This script adds search functionality to the manga edit page that will search for results that match the manga title to help fill in the manga ID fields for the MAL and MU link.
+
+<a href="https://github.com/Hajile-Haji/mangadex-scripts/raw/master/mal-and-mu-search-tool.user.js" target="_blank">Install via userscript Manager</a>
