@@ -159,6 +159,7 @@
 
 			resultItem.appendChild(resultLink)
 			resultLink.href = item.id
+			resultLink.dataset.href = item.id
 			if (item.image_url) {
 				resultLink.appendChild(resultImg)
 				resultImg.src = item.image_url
@@ -198,7 +199,7 @@
 	cleanModal = (e, name) => {
 		e.preventDefault()
 
-		let id = e.target.closest('a').href.match(/\d+/g)[0]
+		let id = e.target.closest('a').dataset.href.match(/\d+/g)[0]
 
 		if (name === 'MAL')
 			mal.value = id
