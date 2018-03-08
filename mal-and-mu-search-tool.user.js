@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MangaDex MAL & MU Search Tool
-// @version      1.0.1
+// @version      1.0.2
 // @author       Hajile-Haji
 // @homepage     https://github.com/Hajile-Haji/mangadex-scripts
 // @updateURL    https://raw.githubusercontent.com/Hajile-Haji/mangadex-scripts/master/mal-and-mu-search-tool.user.js
@@ -12,7 +12,7 @@
 (() => {
 	'use strict';
 	const d = document,
-		form = d.getElementById('edit_manga_form'),
+		form = d.getElementById('manga_edit_form'),
 		title = d.getElementById('manga_name'),
 		mal = d.getElementById('manga_mal_id'),
 		mu = d.getElementById('manga_mu_id')
